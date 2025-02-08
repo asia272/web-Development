@@ -1,0 +1,6 @@
+.error {
+    color: red;
+}
+.inputError{
+    outline-color: red;
+}
