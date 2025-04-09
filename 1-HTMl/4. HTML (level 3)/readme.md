@@ -18,3 +18,5 @@ Go through each exercise and practice the concepts. This collection will help yo
 2. Feel free to modify the code and experiment with your own solutions.
 
 If you find the repository helpful, consider contributing or sharing it with others who are also learning!
+
+## Owner: Asia Ashraf
