@@ -1,10 +1,10 @@
 # Web Development Practice Repository
 
-## Hi everyone! I'm Asia.
+## Hi everyone! I'm Asia Ashraf.
 
 I've been practicing **HTML** and **web development**, and to improve my skills, I created a collection of hands-on exercises. These exercises cover various concepts and techniques in HTML, making it easier for me to learn and for others to practice along the way.
 
-This repository was created to **follow my class**, and it is designed to help me and others practice key concepts in **HTML**.
+This repository was created to **my class follow**, and it is designed to help me and others practice key concepts in **HTML**.
 
 ## HTML Practice Exercises
 
